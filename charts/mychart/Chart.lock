@@ -1,0 +1,12 @@
+dependencies:
+- name: hubot
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 1.0.0
+- name: hubot
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 1.0.0
+- name: redis
+  repository: https://charts.bitnami.com/bitnami
+  version: 11.0.0
+digest: sha256:0edc89e5d1e702e56cc34625a8ffd12dbd75e819f0701c145b195f01e4e4d2a0
+generated: "2020-09-28T15:30:37.485040621+02:00"
