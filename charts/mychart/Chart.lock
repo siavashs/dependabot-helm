@@ -1,12 +1,12 @@
 dependencies:
 - name: hubot
   repository: https://charts.helm.sh/stable
-  version: 1.0.0
+  version: 1.0.4
 - name: hubot
   repository: https://charts.helm.sh/stable
-  version: 1.0.0
+  version: 1.0.4
 - name: redis
   repository: https://charts.bitnami.com/bitnami
   version: 11.0.0
-digest: sha256:777c1b71d6a44b6fd0979834b99aba52358706afc608b655d44f5e8f0ba80d05
-generated: "2021-01-24T15:56:40.436514695+01:00"
+digest: sha256:c06ff51c92987f3be34d5370296cdf8a3b91a69c0a1c10f948c09afaa85543a7
+generated: "2021-05-09T22:26:20.556431275Z"
