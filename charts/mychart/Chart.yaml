@@ -25,11 +25,11 @@ appVersion: 1.16.0
 dependencies:
 - alias: bot1
   name: hubot
-  version: 1.0.0
+  version: 1.0.4
   repository: https://charts.helm.sh/stable
 - alias: bot2
   name: hubot
-  version: 1.0.0
+  version: 1.0.4
   repository: https://charts.helm.sh/stable
 - name: redis
   version: 11.0.0
